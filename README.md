@@ -9,7 +9,7 @@ Avaliable under the terms of the MIT License.
 Using [Vundle](https://github.com/gmarik/vundle), add this to your `.vimrc`:
 
 ```vim
-Plugin 'scpwiki/vim-wikidot'
+Plugin 'The-UIAB-Wiki/vim-wikidot'
 ```
 
 Using [Pathogen](https://github.com/tpope/vim-pathogen), runs this command in your shell:
